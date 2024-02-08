@@ -1,12 +1,4 @@
-#Point(x=657, y=1158)
-# Point(x=461, y=80)
-# Point(x=1824, y=28)
-# Point(x=866, y=1082)
-# Point(x=54, y=894)
-# Point(x=860, y=114)
-# Point(x=182, y=68)
-# Point(x=163, y=122)
-# Point(x=652, y=1115)
+
 import pyautogui as bot
 import time
 
